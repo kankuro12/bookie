@@ -81,6 +81,7 @@ class PuppeteerService {
                             });
                             resolve(list);
                             await this.page.close();
+                            // (await this.browser).close();
                             this.completed=true;
                         } catch (error) {
                             reject(error)
