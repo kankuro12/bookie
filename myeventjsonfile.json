@@ -1,0 +1,927 @@
+[
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Boston Celtics VS Miami Heat",
+        "visitor": {
+            "teamname": "Boston Celtics",
+            "spread": {
+                "spread": "-3.0",
+                "odd": "-105"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": "-155"
+            },
+            "total": {
+                "spread": "-197.5",
+                "odd": "-110"
+            }
+        },
+        "home": {
+            "teamname": "Miami Heat",
+            "spread": {
+                "spread": "3.0",
+                "odd": "-115"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": "130"
+            },
+            "total": {
+                "spread": "197.5",
+                "odd": "-110"
+            }
+        },
+        "id": "22864417",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864417"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "1h Boston Celtics VS 1h Miami Heat",
+        "visitor": {
+            "teamname": "1h Boston Celtics",
+            "spread": {
+                "spread": "-1.5",
+                "odd": "-110"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": "-140"
+            },
+            "total": {
+                "spread": "-95.5",
+                "odd": "-110"
+            }
+        },
+        "home": {
+            "teamname": "1h Miami Heat",
+            "spread": {
+                "spread": "1.5",
+                "odd": "-110"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": "120"
+            },
+            "total": {
+                "spread": "95.5",
+                "odd": "-110"
+            }
+        },
+        "id": "22883319",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22883319"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "1q Boston Celtics VS 1q Miami Heat",
+        "visitor": {
+            "teamname": "1q Boston Celtics",
+            "spread": {
+                "spread": "-0.5",
+                "odd": "-115"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": "-130"
+            },
+            "total": {
+                "spread": "-48.0",
+                "odd": "-110"
+            }
+        },
+        "home": {
+            "teamname": "1q Miami Heat",
+            "spread": {
+                "spread": "0.5",
+                "odd": "-105"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": "110"
+            },
+            "total": {
+                "spread": "48.0",
+                "odd": "-110"
+            }
+        },
+        "id": "22883321",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22883321"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "2q Boston Celtics VS 2q Miami Heat",
+        "visitor": {
+            "teamname": "2q Boston Celtics",
+            "spread": {
+                "spread": "-0.5",
+                "odd": "-105"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": "-120"
+            },
+            "total": {
+                "spread": "-47.0",
+                "odd": "-110"
+            }
+        },
+        "home": {
+            "teamname": "2q Miami Heat",
+            "spread": {
+                "spread": "0.5",
+                "odd": "-115"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": "100"
+            },
+            "total": {
+                "spread": "47.0",
+                "odd": "-110"
+            }
+        },
+        "id": "22883323",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22883323"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "3q Boston Celtics VS 3q Miami Heat",
+        "visitor": {
+            "teamname": "3q Boston Celtics",
+            "spread": {
+                "spread": "-0.5",
+                "odd": "100"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-49.5",
+                "odd": "-110"
+            }
+        },
+        "home": {
+            "teamname": "3q Miami Heat",
+            "spread": {
+                "spread": "0.5",
+                "odd": "-120"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "49.5",
+                "odd": "-110"
+            }
+        },
+        "id": "22883324",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22883324"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "4q Boston Celtics VS 4q Miami Heat",
+        "visitor": {
+            "teamname": "4q Boston Celtics",
+            "spread": {
+                "spread": "-0.5",
+                "odd": "100"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-50.0",
+                "odd": "-110"
+            }
+        },
+        "home": {
+            "teamname": "4q Miami Heat",
+            "spread": {
+                "spread": "0.5",
+                "odd": "-120"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "50.0",
+                "odd": "-110"
+            }
+        },
+        "id": "22883325",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22883325"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Team Total VS Celtics Team Total",
+        "visitor": {
+            "teamname": "Celtics Team Total",
+            "spread": {
+                "spread": "0.0",
+                "odd": ""
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-99.5",
+                "odd": "-120"
+            }
+        },
+        "home": {
+            "teamname": "Celtics Team Total",
+            "spread": {
+                "spread": "0.0",
+                "odd": ""
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "99.5",
+                "odd": "-110"
+            }
+        },
+        "id": "22864942",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864942"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Heat Team Total VS Heat Team Total",
+        "visitor": {
+            "teamname": "Heat Team Total",
+            "spread": {
+                "spread": "0.0",
+                "odd": ""
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-97.5",
+                "odd": "-110"
+            }
+        },
+        "home": {
+            "teamname": "Heat Team Total",
+            "spread": {
+                "spread": "0.0",
+                "odd": ""
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "97.5",
+                "odd": "-120"
+            }
+        },
+        "id": "22864943",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864943"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "-10.5",
+                "odd": "230"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-187.5",
+                "odd": "-250"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "10.5",
+                "odd": "-320"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "187.5",
+                "odd": "175"
+            }
+        },
+        "id": "22864945",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864945"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "-9.5",
+                "odd": "205"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-188.5",
+                "odd": "-230"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "9.5",
+                "odd": "-280"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "188.5",
+                "odd": "165"
+            }
+        },
+        "id": "22864946",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864946"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "-8.5",
+                "odd": "175"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-189.5",
+                "odd": "-210"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "8.5",
+                "odd": "-250"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "189.5",
+                "odd": "155"
+            }
+        },
+        "id": "22864947",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864947"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "-7.5",
+                "odd": "155"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-190.5",
+                "odd": "-190"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "7.5",
+                "odd": "-210"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "190.5",
+                "odd": "150"
+            }
+        },
+        "id": "22864948",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864948"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "-6.5",
+                "odd": "140"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-191.5",
+                "odd": "-175"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "6.5",
+                "odd": "-190"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "191.5",
+                "odd": "135"
+            }
+        },
+        "id": "22864949",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864949"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "-5.5",
+                "odd": "120"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-192.5",
+                "odd": "-155"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "5.5",
+                "odd": "-160"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "192.5",
+                "odd": "115"
+            }
+        },
+        "id": "22864950",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864950"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "-4.5",
+                "odd": "-105"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-193.5",
+                "odd": "-140"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "4.5",
+                "odd": "-135"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "193.5",
+                "odd": "100"
+            }
+        },
+        "id": "22864951",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864951"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "-3.5",
+                "odd": "-120"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-194.5",
+                "odd": "-125"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "3.5",
+                "odd": "-120"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "194.5",
+                "odd": "-115"
+            }
+        },
+        "id": "22864952",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864952"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "-1.5",
+                "odd": "-150"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-196.5",
+                "odd": "-115"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "1.5",
+                "odd": "110"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "196.5",
+                "odd": "-125"
+            }
+        },
+        "id": "22864953",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864953"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "1.5",
+                "odd": "-190"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-197.5",
+                "odd": "100"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "-1.5",
+                "odd": "140"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "197.5",
+                "odd": "-140"
+            }
+        },
+        "id": "22864954",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864954"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "2.5",
+                "odd": "-220"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-198.5",
+                "odd": "110"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "-2.5",
+                "odd": "160"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "198.5",
+                "odd": "-150"
+            }
+        },
+        "id": "22864955",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864955"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "3.5",
+                "odd": "-260"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-199.5",
+                "odd": "130"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "-3.5",
+                "odd": "185"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "199.5",
+                "odd": "-170"
+            }
+        },
+        "id": "22864956",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864956"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "4.5",
+                "odd": "-300"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-200.5",
+                "odd": "150"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "-4.5",
+                "odd": "225"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "200.5",
+                "odd": "-190"
+            }
+        },
+        "id": "22864957",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864957"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "5.5",
+                "odd": "-350"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-201.5",
+                "odd": "150"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "-5.5",
+                "odd": "250"
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "201.5",
+                "odd": "-205"
+            }
+        },
+        "id": "22864959",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864959"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Alt VS Heat Alt",
+        "visitor": {
+            "teamname": "Celtics Alt",
+            "spread": {
+                "spread": "0.0",
+                "odd": ""
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "-202.5",
+                "odd": "165"
+            }
+        },
+        "home": {
+            "teamname": "Heat Alt",
+            "spread": {
+                "spread": "0.0",
+                "odd": ""
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": ""
+            },
+            "total": {
+                "spread": "202.5",
+                "odd": "-230"
+            }
+        },
+        "id": "22864960",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864960"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Sc 1st 10 Pts VS Heat Sc 1st 10 Pts",
+        "visitor": {
+            "teamname": "Celtics Sc 1st 10 Pts",
+            "spread": {
+                "spread": "0.0",
+                "odd": ""
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": "-135"
+            },
+            "total": {
+                "spread": "0.0",
+                "odd": ""
+            }
+        },
+        "home": {
+            "teamname": "Heat Sc 1st 10 Pts",
+            "spread": {
+                "spread": "0.0",
+                "odd": ""
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": "-105"
+            },
+            "total": {
+                "spread": "0.0",
+                "odd": ""
+            }
+        },
+        "id": "22864938",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864938"
+    },
+    {
+        "start": "2022-05-29 20:30+00:00",
+        "end": "2022-05-29 21:30+00:00",
+        "name": "Celtics Sc 1st 20 Pts VS Heat Sc 1st 20 Pts",
+        "visitor": {
+            "teamname": "Celtics Sc 1st 20 Pts",
+            "spread": {
+                "spread": "0.0",
+                "odd": ""
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": "-140"
+            },
+            "total": {
+                "spread": "0.0",
+                "odd": ""
+            }
+        },
+        "home": {
+            "teamname": "Heat Sc 1st 20 Pts",
+            "spread": {
+                "spread": "0.0",
+                "odd": ""
+            },
+            "moneyline": {
+                "spread": "0",
+                "odd": "100"
+            },
+            "total": {
+                "spread": "0.0",
+                "odd": ""
+            }
+        },
+        "id": "22864939",
+        "url": "https://www.mybookie.ag/sportsbook/nba/?prop=22864939"
+    }
+]
