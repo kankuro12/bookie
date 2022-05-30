@@ -57,10 +57,11 @@ class PuppeteerService {
 
                 await this.page.setUserAgent(userAgent);
                 await this.page.goto(this.loginlink, this.pageOptions);
+                await this.page.waitForSelector('input.btnCta_light');
                 await this.page.type('#account', username);
                 await this.page.type('#password', password);
-                await this.page.click('.btnCta_light');
-                await this.page.waitForNavigation({ waitUntil: 'networkidle2' });
+                await this.page.click('input.btnCta_light');
+                await this.page.waitForNavigation({waitUntil: 'networkidle2'});
                
                 this.page.goto(this.crawllink, this.pageOptions).catch((err)=>{console.log(err);});
                 this.page.on("requestfinished", async req => {
