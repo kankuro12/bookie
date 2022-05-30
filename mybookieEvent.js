@@ -102,8 +102,7 @@ class PuppeteerService {
                             name:metaDatas.querySelector('meta[itemprop="performer"]').getAttribute('content'),
                             visitor:visitor,
                             home:home,
-                            id:id,
-                            url:'https://www.mybookie.ag/sportsbook/nba/?prop='+id
+                            id:id
                         })
                         
                     } catch (error) {
